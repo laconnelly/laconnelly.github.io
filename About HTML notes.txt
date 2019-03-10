@@ -1,0 +1,7 @@
+About HTML
+
+sections are part of the page
+article lives inside the section
+ul -- unordered list (bullets point)
+ol -- ordered list (numbers)
+li - list
